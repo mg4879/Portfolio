@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio for potential employers
+Portfolio created to present to any potential employers 
