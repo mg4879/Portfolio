@@ -1,0 +1,9 @@
+applications:
+- host: A3Term1S0292161
+  disk: 128M
+  name: A3Term1S0292161
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  memory: 128M
+  instances: 3

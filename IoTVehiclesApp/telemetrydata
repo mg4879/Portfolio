@@ -1,0 +1,51 @@
+05/06/2018, 2:59:40 pmnode: bb444b55.d6bac8
+msg.payload : string[65]
+"{"id":"Vehicle3","property":"state","value":"Exit Delivery Zone"}"
+05/06/2018, 2:59:40 pmnode: bb444b55.d6bac8
+msg.payload : string[95]
+"{"id":"Vehicle3","property":"description","value":"The vehicle exited region: DLUV at:4:59:40"}"
+05/06/2018, 2:59:40 pmnode: bb444b55.d6bac8
+msg.payload : string[49]
+"{"id":"Vehicle3","property":"speed","value":"30"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[67]
+"{"id":"Vehicle1-2","property":"state","value":"Exit Delivery Zone"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[97]
+"{"id":"Vehicle1-2","property":"description","value":"The vehicle exited region: DLUV at:5:00:58"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[51]
+"{"id":"Vehicle1-2","property":"speed","value":"30"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[65]
+"{"id":"Vehicle1-1","property":"state","value":"In Delivery Zone"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[107]
+"{"id":"Vehicle1-1","property":"description","value":"The vehicle is delivering in region: DGCK at:5:00:58"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[52]
+"{"id":"Vehicle1-1","property":"speed","value":"100"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[65]
+"{"id":"Vehicle1-2","property":"state","value":"In Delivery Zone"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[107]
+"{"id":"Vehicle1-2","property":"description","value":"The vehicle is delivering in region: DLUV at:5:00:58"}"
+05/06/2018, 3:00:58 pmnode: bb444b55.d6bac8
+msg.payload : string[52]
+"{"id":"Vehicle1-2","property":"speed","value":"100"}"
+05/06/2018, 3:01:08 pmnode: bb444b55.d6bac8
+msg.payload : string[67]
+"{"id":"Vehicle2-2","property":"state","value":"Exit Delivery Zone"}"
+05/06/2018, 3:01:08 pmnode: bb444b55.d6bac8
+msg.payload : string[97]
+"{"id":"Vehicle2-2","property":"description","value":"The vehicle exited region: DLUV at:5:00:59"}"
+05/06/2018, 3:01:08 pmnode: bb444b55.d6bac8
+msg.payload : string[51]
+"{"id":"Vehicle2-2","property":"speed","value":"30"}"
+05/06/2018, 3:01:08 pmnode: bb444b55.d6bac8
+msg.payload : string[65]
+"{"id":"Vehicle3-1","property":"state","value":"In Delivery Zone"}"
+05/06/2018, 3:01:08 pmnode: bb444b55.d6bac8
+msg.payload : string[107]
+"{"id":"Vehicle3-1","property":"description","value":"The vehicle is delivering in region: DLUV at:5:01:03"}"

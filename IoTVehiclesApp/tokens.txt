@@ -1,0 +1,37 @@
+Organization ID
+4ynuvi
+Device Type
+Vehicles
+Device ID
+Vehicle1
+Authentication Method
+use-token-auth
+Authentication Token
+_jcvLebtxHUBMzGXo+
+
+Organization ID
+4ynuvi
+Device Type
+Vehicles
+Device ID
+Vehicle2
+Authentication Method
+use-token-auth
+Authentication Token
+PUP*S+W8v_Neq64MOw
+
+Organization ID
+4ynuvi
+Device Type
+Vehicles
+Device ID
+Vehicle3
+Authentication Method
+use-token-auth
+Authentication Token
+OZS(!o3C?D3&TsxT6n
+
+API Key
+a-4ynuvi-ndlesgae07
+Authentication Token
+N)FN!Q1e2e2vvA!)KB
